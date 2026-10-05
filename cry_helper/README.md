@@ -7,7 +7,7 @@ Everything runs on the phone: no audio leaves the device.
 | --- | --- |
 | `cry_preprocess.py` | Step 1: audio -> 3 s mel-spectrograms, builds `cry_dataset.npz` |
 | `train_model.py` | Step 2: trains the classifier, reports accuracy, writes the model into `app/index.html` |
-| `app/index.html` | The app: records 10 s from the mic (or opens an audio file), runs the model, learns this baby's cries |
+| `app/index.html` | The app: records 10 s from the mic (or opens an audio file), translates the cry into a message from the baby, shows a sound analysis (crying time, bursts, pitch over time, loudness), and learns this baby's cries |
 
 ## Rebuild the model
 
