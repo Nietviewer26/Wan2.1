@@ -1,5 +1,5 @@
 """
-Baby cry preprocessing - step 1 of the cry-helper app.
+Baby cry preprocessing - step 1 of the Baby Chat AI app.
 
 Two modes:
   python cry_preprocess.py some_cry.wav      -> shows/saves the spectrogram for one file

@@ -1,4 +1,4 @@
-# Cry Helper
+# Baby Chat AI
 
 Record a baby's cry and get a best guess at why they are crying, with things to try.
 Everything runs on the phone: no audio leaves the device.

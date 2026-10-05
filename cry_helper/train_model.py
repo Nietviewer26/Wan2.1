@@ -1,5 +1,5 @@
 """
-Baby cry model - step 2 of the cry-helper app.
+Baby cry model - step 2 of the Baby Chat AI app.
 
   python train_model.py cry_dataset.npz
 
